@@ -12,7 +12,6 @@ And prints out the information based on their time in acending order.
 #include <fstream>
 #include <vector>
 #include <algorithm>
-#include <iomanip>
 
 
  using std::cout;
@@ -90,3 +89,11 @@ int main() {
     cout<<"Thank you for using Racers-R-Us. Happy Running!"<<endl;
     return 0;
 }
+  
+
+
+
+  
+  
+  
+

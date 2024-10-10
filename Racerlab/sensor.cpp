@@ -38,3 +38,4 @@ Sensor Sensor::operator=(const Sensor& s) {
         }
             return *this;
 }
+

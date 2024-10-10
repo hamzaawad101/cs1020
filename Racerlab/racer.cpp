@@ -5,7 +5,6 @@
 #include "timestamp.h"
 #include "sensor.h" 
 #include "racer.h"
-#include <iomanip>
 
 
 using std::size_t;

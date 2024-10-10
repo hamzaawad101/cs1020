@@ -79,7 +79,7 @@ int main() {
                 //print student info if found
                      cout << "Student " << studentID << ": ";
                      cout <<itr->second->LastName << ", ";
-                     cout << itr->second->FirstName <<" "<<"GPA:”; 
+                     cout << itr->second->FirstName <<","; 
                      cout<< itr->second->GPA <<endl;
                 }
                 else {
